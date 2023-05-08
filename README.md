@@ -6,7 +6,7 @@ My name is Tim. I'm an entry level software engineer coming from the world of mu
 
 I graduated Summa cum Laude from Berklee College of Music and spent the next two decades as a touring musician and church worship leader. Some of the highlights include playing at Carnegie Hall, Nashville’s Ryman Auditorium, Madison Square Garden, and countless other venues in the 49 states I’ve hit so far–North Dakota still eludes me.
 
-In 2020, COVID separated me from most of my music work, and a house fire separated me from my piano. While I was out of my house for the fire damage restoration, I decided to take the advice of many of my software friends and “Learn to Code”.
+In 2020, COVID separated me from most of my music work, and a house fire separated me from my piano. While I was out of my house during the fire damage restoration, I decided to take the advice of many of my software friends and “Learn to Code”.
 
 ## Progress
 
