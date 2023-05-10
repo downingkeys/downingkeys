@@ -25,6 +25,6 @@ Since then, I’ve been learning Elixir and Phoenix through a combination of boo
 
 ## Next Up
 
-I’m looking forward for the real learning to begin as I transition from self-study to entry level employment.
+I’m looking forward to beginning the real learning as I transition from self-study to entry level employment.
 
 You can email me at: downingkeys@gmail.com
