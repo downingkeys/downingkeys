@@ -20,7 +20,7 @@ I started with Michael Hartl’s “Learn Enough” series where I became famili
 - Ruby
 - Ruby on Rails
 
-At the start of 2023) I spent some time getting familiar with:
+At the start of 2023, I spent some time getting familiar with:
 
 - Elixir/Phoenix
 
@@ -32,6 +32,6 @@ Now I'm focused on:
 
 ## Next Up
 
-As an insatiably curios person and lifelong learner, I look forward to continuing this process as I go from self-study to entry level employment. Having caught the dev-bug, I'm eager to learn from people who have experience and to start contributing code.
+As an insatiably curious person and lifelong learner, I look forward to continuing this process as I go from self-study to entry level employment. Having caught the dev-bug, I'm eager to learn from people who have experience and to start contributing code.
 
 You can email me at: downingkeys@gmail.com
