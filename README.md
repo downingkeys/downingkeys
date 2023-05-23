@@ -6,7 +6,7 @@ My name is Tim Downing. I'm an entry level software engineer coming from the wor
 
 I graduated Summa cum Laude from Berklee College of Music and spent the next two decades as a touring musician and church worship leader. Some of the highlights include playing at Carnegie Hall, Nashville’s Ryman Auditorium, Madison Square Garden, and countless other venues in the 49 states I’ve hit so far–North Dakota still eludes me.
 
-In 2020, COVID separated me from most of my music work, and a house fire separated me from my piano. While I was out of my house during the fire damage restoration, I decided to take the advice of many of my software friends and “Learn to Code”.
+In 2020, COVID separated me from most of my music work, and a house fire separated me from my piano. Programming had always piqued my interest throughout the years, but I had never given it a shot. A few long-time close friends, who themselves are programmers, often told me I would be a good fit for software. So, while I was out of my house during the fire damage restoration, I decided to take the advice of many of my software friends and “Learn to Code”.
 
 ## Progress
 
@@ -29,6 +29,8 @@ through a series of books, Udemy courses, and a course from The Pragmatic Studio
 Now I'm focused on:
 
 - React
+
+Specifically, I am focusing on learning the ins and outs of Data Management (currently using Redux), what it means to successfully implement Components in a codebase, and overall, how to write maintainable Front End JavaScript projects with React. On a personal note, it is really cool to gain understanding of the kinds of things that take place under the hood any time I visit a modern webapp.
 
 ## Next Up
 
