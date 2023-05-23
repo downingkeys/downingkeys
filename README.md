@@ -22,13 +22,13 @@ I started with Michael Hartl’s “Learn Enough” series where I became famili
 
 At the start of 2023) I spent some time getting familiar with:
 
--Elixir/Phoenix
+- Elixir/Phoenix
 
 through a series of books, Udemy courses, and a course from The Pragmatic Studio.
 
 Now I'm focused on:
 
--React
+- React
 
 ## Next Up
 
