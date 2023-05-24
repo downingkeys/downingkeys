@@ -1,6 +1,6 @@
 Hey there 👋🏻
 
-My name is Tim Downing. I'm an entry level software engineer coming from the world of music.
+My name is **Tim Downing**. I'm an entry level Software Engineer coming from the world of music.
 
 ## Background
 
@@ -11,24 +11,24 @@ In 2020, COVID separated me from most of my music work, and a house fire separat
 ## Progress
 
 I started with Michael Hartl’s “Learn Enough” series where I became familiar with:
-- Command Line
-- Text Editor
-- GitHub
-- HTML
-- CSS
-- JavaScript
-- Ruby
-- Ruby on Rails
+- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg" alt="BASH Logo" width="48"> **`Command Line`**
+- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="VSCode Logo" width="48"> **`Text Editor`**
+- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="Git Logo" width="48"> **`GitHub`**
+- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML Logo" width="48"> **`HTML`**
+- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS Logo" width="48"> **`CSS`**
+- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="JavaScript Logo" width="48"> **`JavaScript`**
+- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ruby.svg" alt="Ruby Logo" width="48"> **`Ruby`**
+- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rails.svg" alt="Rails Logo" width="48"> **`Ruby on Rails`**
 
 At the start of 2023, I spent some time getting familiar with:
 
-- Elixir/Phoenix
+- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Elixir-Dark.svg" alt="Elixir Logo" width="48"> **`Elixir/Phoenix`**
 
 through a series of books, Udemy courses, and a course from The Pragmatic Studio.
 
 Now I'm focused on:
 
-- React
+- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="React Logo" width="48"> **`React`**
 
 Specifically, I am focusing on learning the ins and outs of Data Management (currently using Redux), what it means to successfully implement Components in a codebase, and overall, how to write maintainable Front End JavaScript projects with React. On a personal note, it is really cool to gain understanding of the kinds of things that take place under the hood any time I visit a modern webapp.
 
