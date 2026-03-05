@@ -1,39 +1,53 @@
-Hey there 👋🏻
+# Tim Downing
 
-My name is **Tim Downing**. I'm an entry level Software Engineer coming from the world of music.
+**Frontend Developer** · TypeScript, React, Tailwind CSS · Vancouver, WA
+
+I build enterprise web applications and use AI-augmented development workflows to ship faster and at a higher level. Currently a developer at [Mocaworks](https://www.mocaworks.com), building a learning management platform that serves thousands of users across dozens of client domains.
+
+## What I Do
+
+I work across the full frontend stack with TypeScript/React, and I pair with AI tooling (Claude Code, agentic workflows) daily. Not as a crutch — as a multiplier. I trace data flows through complex codebases, debug production issues using App Insights and IIS log analysis, and write the kind of investigation reports that help teams make decisions.
+
+**Day-to-day, that looks like:**
+
+- Building and maintaining React interfaces in a large Nx monorepo (Spacedock)
+- Investigating production anomalies using Azure App Insights KQL and server-side log analysis
+- Writing technical documentation for Confluence that actually gets read
+- Collaborating with backend engineers on API contracts and data serialization
+- Pairing with AI agents on everything from code generation to root cause analysis
+
+## Tech
+
+<p>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" alt="TypeScript" width="40">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="React" width="40">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="40">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="JavaScript" width="40">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML" width="40">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS" width="40">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="Git" width="40">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="VS Code" width="40">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg" alt="Bash" width="40">
+</p>
+
+**Also working with:** Nx monorepos · Vite · SCSS · Azure App Insights (KQL) · Jira/Confluence APIs · GitHub Actions
+
+**AI Development:** Claude Code · agentic workflows · AI-assisted debugging and code generation
 
 ## Background
 
-I graduated Summa cum Laude from Berklee College of Music and spent the next two decades as a touring musician and church worship leader. Some of the highlights include playing at Carnegie Hall, Nashville’s Ryman Auditorium, Madison Square Garden, and countless other venues in the 49 states I’ve hit so far–North Dakota still eludes me.
+I came to software from music. I graduated summa cum laude from Berklee College of Music and spent two decades as a professional pianist and keyboardist, touring with artists like Natalie Grant and playing venues from Carnegie Hall to the Ryman Auditorium to Madison Square Garden (49 states and counting; North Dakota still eludes me).
 
-In 2020, COVID separated me from most of my music work, and a house fire separated me from my piano. Programming had always piqued my interest throughout the years, but I had never given it a shot. A few long-time close friends, who themselves are programmers, often told me I would be a good fit for software. So, while I was out of my house during the fire damage restoration, I decided to take the advice of many of my software friends and “Learn to Code”.
+In 2020, COVID ended most of my live performance work, and a house fire separated me from my piano. I'd always been curious about programming, and several close friends in software had told me I'd be a good fit. So I took their advice and learned to code.
 
-## Progress
+What I've found is that the skills transfer more than I expected. Reading a room, tracking multiple voices in a mix, knowing when to lead and when to support — these are the same instincts that help me navigate a codebase, read a team's dynamics, and know when to ask questions versus when to dig in and figure it out.
 
-I started with Michael Hartl’s “Learn Enough” series where I became familiar with:
-- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg" alt="BASH Logo" width="48"> **`Command Line`**
-- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="VSCode Logo" width="48"> **`Text Editor`**
-- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="Git Logo" width="48"> **`GitHub`**
-- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML Logo" width="48"> **`HTML`**
-- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS Logo" width="48"> **`CSS`**
-- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="JavaScript Logo" width="48"> **`JavaScript`**
-- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ruby.svg" alt="Ruby Logo" width="48"> **`Ruby`**
-- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rails.svg" alt="Rails Logo" width="48"> **`Ruby on Rails`**
+## Currently
 
-At the start of 2023, I spent some time getting familiar with:
+- ~2.5 years into professional development, committed to the craft
+- Building AI-augmented development workflows that compress learning and increase output
+- Actively looking for freelance opportunities where I can bring both technical skill and strategic thinking
 
-- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Elixir-Dark.svg" alt="Elixir Logo" width="48"> **`Elixir/Phoenix`**
+## Get in Touch
 
-through a series of books, Udemy courses, and a course from The Pragmatic Studio.
-
-Now I'm focused on:
-
-- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="React Logo" width="48"> **`React`**
-
-Specifically, I am focusing on learning the ins and outs of Data Management (currently using Redux), what it means to successfully implement Components in a codebase, and overall, how to write maintainable Front End JavaScript projects with React. On a personal note, it is really cool to gain understanding of the kinds of things that take place under the hood any time I visit a modern webapp.
-
-## Next Up
-
-As an insatiably curious person and lifelong learner, I look forward to continuing this process as I go from self-study to entry level employment. Having caught the dev-bug, I'm eager to learn from people who have experience and to start contributing code.
-
-You can email me at: downingkeys@gmail.com
+📧 downingkeys@gmail.com
