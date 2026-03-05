@@ -6,7 +6,7 @@ I build enterprise web applications and use AI-augmented development workflows t
 
 ## What I Do
 
-I work across the full frontend stack with TypeScript/React, and I pair with AI tooling (Claude Code, agentic workflows) daily. Not as a crutch — as a multiplier. I trace data flows through complex codebases, debug production issues using App Insights and IIS log analysis, and write the kind of investigation reports that help teams make decisions.
+I work across the full frontend stack with TypeScript/React, and I pair with AI tooling (Claude Code, agentic workflows) as a force multiplier daily. I trace data flows through complex codebases, debug production issues using App Insights and IIS log analysis, and write the kind of investigation reports that help teams make decisions.
 
 **Day-to-day, that looks like:**
 
