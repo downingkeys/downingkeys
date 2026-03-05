@@ -46,7 +46,6 @@ What I've found is that the skills transfer more than I expected. Reading a room
 
 - ~2.5 years into professional development, committed to the craft
 - Building AI-augmented development workflows that compress learning and increase output
-- Actively looking for freelance opportunities where I can bring both technical skill and strategic thinking
 
 ## Get in Touch
 
